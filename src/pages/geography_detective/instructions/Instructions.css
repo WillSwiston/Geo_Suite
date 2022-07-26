@@ -1,0 +1,46 @@
+.geography-detective-instructions-wrapper {
+  padding: 2em;
+  background: var(--main-color-light);
+  width: 100%;
+}
+
+.geography-detective-inner-instructions-wrapper {
+  margin: auto;
+  padding-bottom: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  line-height: 1.6;
+  align-items: center;
+}
+
+.geod-expander-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.geography-detective-instructions-couple {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+
+.geography-detective-subtitle {
+  padding-top: 2em;
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+
+.geod-instruction-block {
+  font-size: 1.2rem;
+  max-width: 65ch;
+  font-weight: 200;
+  position: relative;
+}
+
+.geod-instruction-img {
+  width: 400px;
+  align-self: center;
+}

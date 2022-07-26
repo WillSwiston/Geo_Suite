@@ -1,0 +1,46 @@
+#!/bin/bash
+
+print_help='false'
+auto_pep8='false'
+pylint='false'
+
+###############################################
+###            PARSE INPUT FLAGS            ###
+###############################################
+while getopts 'ahl' flag; do
+  case "${flag}" in
+    h) print_help="true" ;;
+    a) auto_pep8='true' ;;
+    l) pylint="true" ;;
+    *) exit 1
+  esac
+done
+
+###############################################
+###                PRINT FLAG               ###
+###############################################
+if $print_help; then
+  echo "Format and style-check the tooling code."
+  echo
+  echo "Syntax: ./format -[h|a|l]"
+  echo
+  echo "Options:"
+  echo "-h     Print this Help."
+  echo "-a     Run autopep8 to automatically format code."
+  echo "-l     Run Pylint to identify style errors."
+  echo
+fi
+
+###############################################
+###                MAIN LOOP                ###
+###############################################
+FILES=$(find . -type f -name "*.py")
+
+for file in $FILES; do
+  if $auto_pep8; then
+    autopep8 --in-place --aggressive --aggressive $file
+  fi
+  if $pylint; then
+    pylint $file
+  fi
+done

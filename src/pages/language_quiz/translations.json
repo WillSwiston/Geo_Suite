@@ -1,0 +1,238 @@
+{
+  "sq": {
+    "translation": "Mësoni gjuhët e botës",
+    "family": "latin"
+  },
+  "hr": {
+    "translation": "Naučite jezike svijeta",
+    "family": "latin"
+  },
+  "cs": {
+    "translation": "Naučte se jazyky světa",
+    "family": "latin"
+  },
+  "da": {
+    "translation": "Lær verdens sprog",
+    "family": "latin"
+  },
+  "et": {
+    "translation": "Õppige maailma keeli",
+    "family": "latin"
+  },
+  "en": {
+    "translation": "Learn the languages of the world",
+    "family": "latin"
+  },
+  "de": {
+    "translation": "Lerne die Sprachen der Welt",
+    "family": "latin"
+  },
+  "hu": {
+    "translation": "Tanulja meg a világ nyelveit",
+    "family": "latin"
+  },
+  "is": {
+    "translation": "Lærðu tungumál heimsins",
+    "family": "latin"
+  },
+  "ga": {
+    "translation": "Foghlaim teangacha an domhain",
+    "family": "latin"
+  },
+  "it": {
+    "translation": "Impara le lingue del mondo",
+    "family": "latin"
+  },
+  "lv": {
+    "translation": "Uzziniet pasaules valodas",
+    "family": "latin"
+  },
+  "lt": {
+    "translation": "Sužinokite apie pasaulio kalbas",
+    "family": "latin"
+  },
+  "lb": {
+    "translation": "Léiert d'Sproochen vun der Welt",
+    "family": "latin"
+  },
+  "no": {
+    "translation": "Lær verdens språk",
+    "family": "latin"
+  },
+  "pt": {
+    "translation": "Aprenda as línguas do mundo",
+    "family": "latin"
+  },
+  "ro": {
+    "translation": "Învață limbile lumii",
+    "family": "latin"
+  },
+  "sk": {
+    "translation": "Naučte sa jazyky sveta",
+    "family": "latin"
+  },
+  "sl": {
+    "translation": "Naučite se jezikov sveta",
+    "family": "latin"
+  },
+  "sv": {
+    "translation": "Lär dig världens språk",
+    "family": "latin"
+  },
+  "tr": {
+    "translation": "Dünyanın dillerini öğrenin",
+    "family": "latin"
+  },
+  "es": {
+    "translation": "Aprender los idiomas del mundo",
+    "family": "latin"
+  },
+  "fi": {
+    "translation": "Opi maailman kielet",
+    "family": "latin"
+  },
+  "fr": {
+    "translation": "Apprenez les langues du monde",
+    "family": "latin"
+  },
+  "nl": {
+    "translation": "Leer de talen van de wereld",
+    "family": "latin"
+  },
+  "pl": {
+    "translation": "Naucz się języków świata",
+    "family": "latin"
+  },
+  "uk": {
+    "translation": "Вивчіть мови світу",
+    "family": "cyrillic"
+  },
+  "ru": {
+    "translation": "Узнайте языки мира",
+    "family": "cyrillic"
+  },
+  "kk": {
+    "translation": "Әлем тілдерін үйреніңіз",
+    "family": "cyrillic"
+  },
+  "ky": {
+    "translation": "Дүйнөнүн тилдерин үйрөн",
+    "family": "cyrillic"
+  },
+  "tg": {
+    "translation": "Забонҳои дунёро омӯзед",
+    "family": "cyrillic"
+  },
+  "mk": {
+    "translation": "Научете ги јазиците на светот",
+    "family": "cyrillic"
+  },
+  "bg": {
+    "translation": "Научете езиците на света",
+    "family": "cyrillic"
+  },
+  "mn": {
+    "translation": "Дэлхийн хэлээр сур",
+    "family": "cyrillic"
+  },
+  "be": {
+    "translation": "Вывучыце мовы свету",
+    "family": "cyrillic"
+  },
+  "hi": {
+    "translation": "दुनिया की भाषाओं को जानें",
+    "family": "asian"
+  },
+  "sa": {
+    "translation": "जगतः भाषाः शिक्षन्तु .",
+    "family": "asian"
+  },
+  "ne": {
+    "translation": "संसारको भाषाहरू सिक्नुहोस्",
+    "family": "asian"
+  },
+  "bn": {
+    "translation": "বিশ্বের ভাষা শিখুন",
+    "family": "asian"
+  },
+  "my": {
+    "translation": "ကမ္ဘာ၏ဘာသာစကားများကိုလေ့လာပါ",
+    "family": "asian"
+  },
+  "zh-CN": {
+    "translation": "学习世界的语言",
+    "family": "asian"
+  },
+  "gu": {
+    "translation": "વિશ્વની ભાષાઓ શીખો",
+    "family": "asian"
+  },
+  "id": {
+    "translation": "Pelajari bahasa dunia",
+    "family": "misc"
+  },
+  "ja": {
+    "translation": "世界の言語を学びます",
+    "family": "asian"
+  },
+  "km": {
+    "translation": "រៀនភាសារបស់ពិភពលោក",
+    "family": "asian"
+  },
+  "ko": {
+    "translation": "세계의 언어를 배우십시오",
+    "family": "asian"
+  },
+  "lo": {
+    "translation": "ຮຽນຮູ້ພາສາຂອງໂລກ",
+    "family": "asian"
+  },
+  "tl": {
+    "translation": "Alamin ang mga wika ng mundo",
+    "family": "misc"
+  },
+  "ta": {
+    "translation": "உலக மொழிகளைக் கற்றுக்கொள்ளுங்கள்",
+    "family": "asian"
+  },
+  "th": {
+    "translation": "เรียนรู้ภาษาของโลก",
+    "family": "asian"
+  },
+  "vi": {
+    "translation": "Học các ngôn ngữ của thế giới",
+    "family": "asian"
+  },
+  "af": {
+    "translation": "Leer die tale van die wêreld",
+    "family": "african"
+  },
+  "yo": {
+    "translation": "Kọ awọn ede ti agbaye",
+    "family": "african"
+  },
+  "ig": {
+    "translation": "Mụta asụsụ nke ụwa",
+    "family": "african"
+  },
+  "az": {
+    "translation": "Dünyanın dillərini öyrənin",
+    "family": "african"
+  },
+  "ka": {
+    "translation": "ისწავლეთ მსოფლიოს ენები",
+    "family": "misc"
+  },
+  "pa": {
+    "translation": "ਵਿਸ਼ਵ ਦੀਆਂ ਭਾਸ਼ਾਵਾਂ ਸਿੱਖੋ",
+    "family": "asian"
+  },
+  "am": {
+    "translation": "የዓለም ቋንቋዎችን ይወቁ",
+    "family": "misc"
+  },
+  "te": {
+    "translation": "ప్రపంచ భాషలను తెలుసుకోండి",
+    "family": "misc"
+  }
+}

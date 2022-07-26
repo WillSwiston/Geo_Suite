@@ -1,0 +1,8 @@
+# Ignore the selinium chrome driver
+*.exe
+
+# Ignore the Python cache folder
+__pycache__/
+
+# Allow for personal translations
+translations/

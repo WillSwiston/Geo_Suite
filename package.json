@@ -1,0 +1,66 @@
+{
+    "name": "geosuite",
+    "homepage": "https://geosuite.net/",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "react-scripts start",
+        "linstart": "react-scripts --openssl-legacy-provider start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "lint": "eslint ./src",
+        "format": "./tools/format -a -l",
+        "build-push": "npm run build && aws s3 cp --recursive ./build s3://www.geosuite.net/ --region \"us-east-1\" && aws cloudfront create-invalidation --distribution-id E2TWX1Z6A7YRH2 --paths \"/**/*\" && aws cloudfront create-invalidation --distribution-id E1QRF8PDV1ZMJ --paths \"/**/*\""
+    },
+    "dependencies": {
+        "@react-leaflet/core": "1.0.2",
+        "@testing-library/jest-dom": "^5.16.0",
+        "@testing-library/react": "^11.2.7",
+        "@testing-library/user-event": "^12.8.3",
+        "country-flags-svg": "1.1.6",
+        "i18next": "^21.6.5",
+        "leaflet": "^1.7.1",
+        "react": "^17.0.2",
+        "react-confetti": "^6.0.1",
+        "react-dom": "^17.0.2",
+        "react-error-overlay": "^6.0.9",
+        "react-i18next": "^11.15.3",
+        "react-leaflet": "3.1.0",
+        "react-router-dom": "^6.2.1",
+        "react-scripts": "4.0.3",
+        "react-search-autocomplete": "^6.0.0",
+        "react-select": "^5.2.2",
+        "react-split": "^2.0.14",
+        "web-vitals": "^1.1.2",
+        "world-countries-population-data": "^1.1.0"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-standard": "^16.0.3",
+        "eslint-plugin-import": "^2.25.4",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^5.2.0",
+        "eslint-plugin-react": "^7.28.0"
+    },
+    "resolutions": {
+        "react-error-overlay": "6.0.9"
+    }
+}

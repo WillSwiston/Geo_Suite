@@ -1,0 +1,46 @@
+.win-banner-wrapper {
+  color: var(--main-color-dark);
+}
+
+.win-banner-card {
+  text-align: center;
+  padding: 2em;
+  margin: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--main-color-light);
+  border-radius: 5px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 2px 2px rgba(0, 0, 0, 0.1),
+    0 4px 4px rgba(0, 0, 0, 0.1),
+    0 8px 8px rgba(0, 0, 0, 0.1),
+    0 16px 16px rgba(0, 0, 0, 0.1);
+}
+
+.win-banner-wrapper img {
+  height: 10em;
+  margin-bottom: 2em;
+}
+
+.win-banner-country-name {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.win-banner-country-info {
+  width: 100%;
+  display: flex;
+  justify-content: left;
+}
+
+.win-banner-country-info ul {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+}
+
+.win-banner-text-wrapper {
+  font-size: 1.3rem;
+  font-weight: 800;
+}

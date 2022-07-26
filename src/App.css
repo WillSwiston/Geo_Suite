@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+  text-overflow: ellipsis;
+  font-family: DefaultSans;
+
+  --main-color-light: #e5e3e5;
+  --main-color-dark: #2c2e34;
+  --background-screen: rgba(255, 255, 255, 0.2);
+  --background-heavy-screen: rgba(255, 255, 255, 0.5);
+}
+
+html {
+  scroll-snap-type: y mandatory;
+}
+
+/* Font Faces */
+
+@font-face {
+  font-family: 'DefaultSans';
+  src: local('MyFont'), url(./fonts/OpenSans.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'DefaultSerif';
+  src: local('MyFont'), url(./fonts/ComorantGaramond.ttf) format('truetype');
+}

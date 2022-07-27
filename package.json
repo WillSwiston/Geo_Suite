@@ -10,7 +10,7 @@
         "eject": "react-scripts eject",
         "lint": "eslint ./src",
         "format": "./tools/format -a -l",
-        "build-push": "npm run build && aws s3 cp --recursive ./build s3://www.geosuite.net/ --region \"us-east-1\" && aws cloudfront create-invalidation --distribution-id E2TWX1Z6A7YRH2 --paths \"/**/*\" && aws cloudfront create-invalidation --distribution-id E1QRF8PDV1ZMJ --paths \"/**/*\""
+        "build-push": "npm run build && aws s3 cp --recursive ./build s3://www.geosuite.net/ --region \"us-east-1\" && aws cloudfront create-invalidation --distribution-id E2TWX1Z6A7YRH2 --paths \"/*\" && aws cloudfront create-invalidation --distribution-id E1QRF8PDV1ZMJ --paths \"/*\""
     },
     "dependencies": {
         "@react-leaflet/core": "1.0.2",

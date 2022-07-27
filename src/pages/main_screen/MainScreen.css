@@ -22,6 +22,7 @@
   justify-content: center;
   background: rgba(255, 255, 255, 0.5);
   border-radius: 15px;
+  padding: 2em;
 }
 
 .main-screen-play-wrapper h1 {
@@ -47,23 +48,9 @@
 }
 
 .menu {
-  background: none;
-  border: none;
-
-  background-repeat: no-repeat;
-  background-image: url("./assets/PlayButton.svg");
-  background-size: cover;
-
-  width: 200px;
-  height: 100px;
-}
-
-.menu:hover {
-  transform: translate(5px, 5px);
-}
-
-.menu:active {
-  transform: translate(10px, 10px); 
+  font-size: 3rem;
+  font-family: 'DefaultSerif';
+  padding: 0.5em;
 }
 
 .main-screen-title {

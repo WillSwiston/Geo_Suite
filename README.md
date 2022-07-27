@@ -1,4 +1,4 @@
-![Logo](public/GeoSuiteLogo.png)
+![Logo](docs/GeoSuiteLogo.png)
 
 <p align="center">
   <b>Interactive learning platform for geography!</b><br>

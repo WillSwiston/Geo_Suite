@@ -13,14 +13,14 @@ function MainScreen() {
   return (
     <div className="main-screen-wrapper">
     <img src={GeoSuiteLogo} alt="" />
-      <div className="main-screen-inner-wrapper">
-        {open ? <GameSelect /> : ""}
-      </div>
-      <div className="main-screen-play-wrapper">
-      <h1 className="main-screen-title">Welcome to GeoSuite!</h1>
-        {!open ? <button onClick={() => setOpen(true)} className="menu"></button> : ""}
-      </div>
+
+    <div className="main-screen-play-wrapper">
+      <h1>The interactive platform for learning geography!</h1>
+      {!open ? <button onClick={() => setOpen(true)} className="menu hollow">Select a game</button> : ""}
       {open ? <button onClick={() => setOpen(false)} className="button-close"></button> : ""}
+    </div>
+
+    {open ? <GameSelect /> : ""}
     </div>
   );
 }

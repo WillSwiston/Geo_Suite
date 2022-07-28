@@ -16,7 +16,7 @@ function MainScreen() {
 
     <div className="main-screen-play-wrapper">
       <h1>The interactive platform for learning geography!</h1>
-      {!open ? <button onClick={() => setOpen(true)} className="menu hollow">Select a game</button> : ""}
+      {!open ? <button onClick={() => setOpen(true)} className="menu">Select a game</button> : ""}
       {open ? <button onClick={() => setOpen(false)} className="button-close"></button> : ""}
     </div>
 

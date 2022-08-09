@@ -10,7 +10,7 @@ import Instructions from "./instructions/Instructions.js";
 
 /* Constants */
 import { Aliases } from "../../const/Aliases";
-import { SmallCountries } from "../../const/small_countries.js";
+import { SmallCountries } from "../../const/SmallCountries.js";
 import Distances from "../../json/lists/distances.json";
 import { FlagKnowledgeList } from "../../const/FlagKnowledgeList.js";
 import { useParams } from "react-router-dom";

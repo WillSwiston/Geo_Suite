@@ -32,6 +32,11 @@ export default function USCities(props) {
     // console.log(CityNames[randomEntry].state);
     // setCurrentCity(CityNames[randomEntry]);
     // hints.population = CityNames[randomEntry].population;
+
+    /*
+      Generate cities based on 5 most populus in each state
+      TODO - Add guard based on difficulty level
+    */
     const randomIndex = Math.floor(Math.random() * 50);
     const randomState = Object.keys(Top5)[randomIndex];
     const randomStateCities = Top5[randomState];

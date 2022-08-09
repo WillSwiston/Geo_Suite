@@ -1,6 +1,10 @@
 import React from "react";
 import "./NavHeader.css";
 
+/* Assets */
+// TODO - Import icon to replace back-button
+
+/* Functions */
 import { Link } from "react-router-dom";
 
 function NavHeader(props) {

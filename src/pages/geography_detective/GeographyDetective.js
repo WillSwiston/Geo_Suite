@@ -110,8 +110,16 @@ function GeographyDetective() {
     if (!enteredISO || userGuesses[enteredISO] !== undefined) return 0;
 
     setGuessCounter(guessCounter + 1);
-    const candidate1 = Distances[enteredISO][targetISO];
-    const candidate2 = Distances[targetISO][enteredISO];
+
+    let candidate1 = "";
+    let candidate2 = "";
+    if (Distances[enteredISO]) {
+      candidate1 = Distances[enteredISO][targetISO];
+    }
+    if (Distances[targetISO]) {
+      candidate2 = Distances[targetISO][enteredISO];
+    }
+
     const distance = candidate1 === undefined ? candidate2 : candidate1;
 
     // Safe to assume it searched for distance to itself

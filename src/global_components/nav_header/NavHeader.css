@@ -4,10 +4,12 @@
 }
 
 .nav-header-wrapper {
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background: var(--nav-header-background-color);
   color: var(--main-color-dark);
   -webkit-box-shadow: 0px 7px 25px 5px #000000;
   box-shadow: 0px 7px 25px 5px #000000;
-  background: var(--nav-header-background-color);
   width: 100%;
   min-width: 10vh;
   margin-bottom: 2em;
@@ -33,14 +35,12 @@
 .nav-header-button-wrapper {
   display: flex;
   align-items: center;
-  justify-self: start;
-  margin: auto;
+  justify-self: end;
   height: calc(100% - 25px);
 }
 
-.nav-header-help-wrapper {
-  display: flex;
-  justify-content: flex-end;
+.nav-header-logo {
+  width: 5em;
 }
 
 @media only screen and (max-width: 600px) {

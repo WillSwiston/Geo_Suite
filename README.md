@@ -47,4 +47,3 @@ To run the unit tests, run the following command
 | CSS Framework | Vanilla |
 | Translation Tools | Python |
 | Distance Calculation | Python |
-

@@ -1,5 +1,5 @@
 # GeoSuite Tooling
-Tooling-specific information is found within each folder.
+Tool-specific information is found within each folder.
 
 ## Code Styling
 To enforce code-style, the `format` script has been created.

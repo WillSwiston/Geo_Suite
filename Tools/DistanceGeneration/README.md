@@ -4,9 +4,8 @@
 Reduces input JSON into a useful format for `CalculateDistance.py`.
 
 Params:
-  - input: input file that contains the JSON
+  - input: input file that contains the JSON, min distance (in km) to consider two countries bordering
   - outuput: output file which will be written to, which is then the input for the distance calculator
-
 ## CalculateDistance
 Generate the JSON of diistances between each pair of countries.
 

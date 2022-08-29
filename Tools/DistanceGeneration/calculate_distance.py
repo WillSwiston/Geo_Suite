@@ -46,10 +46,10 @@ def main():
                                 second_coordinate_pair[0],
                                 second_coordinate_pair[1]),
                             min_dist)
-                        if min_dist < 1:
+                        if min_dist < int(sys.argv[2]):
                             min_dist = 0
                             break
-                    if min_dist < 1:
+                    if min_dist < int(sys.argv[2]):
                         break
                 distances[second_country] = min_dist
 

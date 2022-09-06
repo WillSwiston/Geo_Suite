@@ -37,7 +37,7 @@ export default function Instructions (props) {
           </h1>
           <img className="geod-instruction-img" src={Legend} alt="" />
           <h1 className="geod-instruction-block">
-            Having trouble finding the target country? You can change the difficulty slider to include more or less well-known countries.<br />
+            Having trouble finding the target country? Try a lower difficulty! Each difficulty adds more countries to the potential pool.
           </h1>
           <h1 className="geod-instruction-block">
             Can&apos;t find the target country? Click &quot;Give Up&quot; to end the game.<br />

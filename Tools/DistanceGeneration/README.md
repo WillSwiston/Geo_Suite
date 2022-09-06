@@ -10,7 +10,7 @@ Params:
 Generate the JSON of diistances between each pair of countries.
 
 Params:
-  - input: input file containing the preprocessed JSON
+  - input: input file containing the preprocessed JSON, threshold integer for what is considered a border in km (10 recommended)
 
 Outputs a file called `distances.json`, which can then by directly imported into GeoSuite.
 

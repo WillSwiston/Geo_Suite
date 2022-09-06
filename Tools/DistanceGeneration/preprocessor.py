@@ -28,7 +28,10 @@ def main():
         print("ERROR: File does not exist.")
         return
 
-    for element in json_data['features']:
+    for element in json_data:
+        if not element['geometry']:
+            print(f"WARNING: {element['properties']['ADMIN']} has no geometric data.")
+            continue
         name = element['properties']['ISO_A3']
         geom = list(flatten(element['geometry']['coordinates']))
         geom = ([[geom[i], geom[i + 1]] for i in range(0, len(geom), 2)])

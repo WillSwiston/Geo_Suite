@@ -7,13 +7,13 @@ import { Link } from "react-router-dom";
 /* Constants */
 import { CardList } from "./const/CardList";
 
-export default function GameSelect() {
+export default function GameSelect () {
   return (
     <div className="game-select-wrapper">
       <button className="button-close"></button>
       <div className="game-select-card-wrapper">
         {CardList.map((key, index) =>
-        <div className="game-select-value-option" key={index} style={{ "--background-color": key.backgroundColor }} >
+          <div className="game-select-value-option" key={index} style={{ "--background-color": key.backgroundColor }} >
             <h1 className="game-select-card-title">
               {key.name}
             </h1>

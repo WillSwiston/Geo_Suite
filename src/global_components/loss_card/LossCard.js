@@ -3,7 +3,7 @@ import React from "react";
 import "./LossCard.css";
 import Confetti from "react-confetti";
 
-export default function LossCard(props) {
+export default function LossCard (props) {
   const getMessage = () => {
     if (props.gaveUp) {
       return "You gave up!";

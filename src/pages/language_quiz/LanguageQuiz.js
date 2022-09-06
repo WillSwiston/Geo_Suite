@@ -9,7 +9,7 @@ import { useParams } from "react-router-dom";
 import Translations from "./translations.json";
 import { Legend } from "./LangCodeToName.js";
 
-export default function LanguageQuiz(props) {
+export default function LanguageQuiz (props) {
   const [targetText, setTargetText] = useState("");
   const [choices, setChoices] = useState([]);
   const [streak, setStreak] = useState(0);

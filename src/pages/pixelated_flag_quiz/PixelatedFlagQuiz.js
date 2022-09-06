@@ -21,7 +21,7 @@ const NUM_ROWS = 4;
 const NUM_COLUMNS = 4;
 let hidden = [];
 
-export default function FlagQuiz() {
+export default function FlagQuiz () {
   const [targetCountry, setTargetCountry] = useState(null);
   const [hasLost, setHasLost] = useState(false);
   const [tileCoordinates, setTileCoordinates] = useState(null);
@@ -192,7 +192,7 @@ export default function FlagQuiz() {
           : ""}
         <div className="tile-wrapper" style={{ width: blockSize[0] * NUM_COLUMNS, height: "calc(30vh + 2em)" }}>
           {tileCoordinates
-            ? [...Array(NUM_COLUMNS * NUM_ROWS)].map(function render(elem, index) {
+            ? [...Array(NUM_COLUMNS * NUM_ROWS)].map(function render (elem, index) {
               if (!(hidden.includes(index))) {
                 return (
                   <Tile blank={false} coordinates={tileCoordinates[index]} blockSize={blockSize} image={image} dimensions={dimensions} />

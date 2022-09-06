@@ -3,7 +3,7 @@
   toLowerCase: Boolean - Pass in toLowerCase boolean value if you want to remove capitalization.
 */
 
-export default function Minify(text, toLowerCase = true, removeSpace = true) {
+export default function Minify (text, toLowerCase = true, removeSpace = true) {
   let minifiedText = text.normalize("NFD").replace(/[\u0300-\u036f-,+]/g, "");
 
   if (removeSpace) {

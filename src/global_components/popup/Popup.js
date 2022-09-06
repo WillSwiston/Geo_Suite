@@ -7,7 +7,7 @@ import { findFlagUrlByIso3Code } from "country-flags-svg";
 /* Constants */
 import Countries from "../../json/lists/ISO_to_country_name.json";
 
-function Popup(props) {
+function Popup (props) {
   return (
     <div className="popup-wrapper">
       {props.popupOptions.includes("Name") ? <div>{Countries[props.feature.properties.ISO_A3]}</div> : ""}

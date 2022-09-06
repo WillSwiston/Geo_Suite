@@ -1,7 +1,7 @@
 import React from "react";
 import "./PixelatedFlagQuiz.css";
 
-export default function Tile(props) {
+export default function Tile (props) {
   const tileStyle = props.blank
     ? {
       width: props.blockSize[0],

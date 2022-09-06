@@ -7,7 +7,7 @@ import "leaflet/dist/leaflet.css";
 import "./MapElement.css";
 import Popup from "../popup/Popup";
 
-function MapElement(props) {
+function MapElement (props) {
   const [map, setMap] = useState(null);
   const zoomRef = useRef();
   const [data, setData] = useState(Countries);

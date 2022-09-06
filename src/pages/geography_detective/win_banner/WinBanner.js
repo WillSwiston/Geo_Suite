@@ -8,7 +8,7 @@ import { findFlagUrlByIso3Code } from "country-flags-svg";
 import Capitals from "../../../json/lists/ISO_to_capital_name.json";
 import Data from "world-countries-population-data";
 
-function WinBanner(props) {
+function WinBanner (props) {
   const bannerRef = useRef();
 
   useEffect(() => {

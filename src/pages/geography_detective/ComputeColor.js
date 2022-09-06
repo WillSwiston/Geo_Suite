@@ -1,6 +1,6 @@
 // NEW COLOR SCHEME: https://gka.github.io/palettes/#/5|s|fffa90,9352a5|ffffe0,ff005e,93003a|1|1
 
-function ComputeColor(distance) {
+function ComputeColor (distance) {
   if (distance > 10000) {
     return "#9453a1";
   }

@@ -7,7 +7,7 @@ import GameSelect from "../game_select/GameSelect.js";
 /* Assets */
 import GeoSuiteLogo from "./assets/GeoSuiteLogo.png";
 
-function MainScreen() {
+function MainScreen () {
   const [open, setOpen] = useState(false);
 
   return (

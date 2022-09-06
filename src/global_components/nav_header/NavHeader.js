@@ -8,7 +8,7 @@ import Logo from "../../assets/GsLogo.png";
 /* Functions */
 import { Link } from "react-router-dom";
 
-function NavHeader(props) {
+function NavHeader (props) {
   return (
     <div className="nav-header-wrapper">
       <div className="nav-header-grid-wrapper">

@@ -21,7 +21,7 @@ import GoldMedal from "../../assets/GoldMedal.png";
 import SilverMedal from "../../assets/SilverMedal.png";
 import BronzeMedal from "../../assets/BronzeMedal.png";
 
-export default function FlagQuiz() {
+export default function FlagQuiz () {
   const [targetCountry, setTargetCountry] = useState(null);
 
   const [numAsked, setNumAsked] = useState(0);
@@ -41,7 +41,7 @@ export default function FlagQuiz() {
 
   const showWrongCard = () => {
     setWrongGuess(true);
-    const timeout = setTimeout(function() {
+    const timeout = setTimeout(function () {
       setWrongGuess(false);
       clearTimeout(timeout);
       generateTargetCountry();

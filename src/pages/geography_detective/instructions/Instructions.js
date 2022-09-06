@@ -4,11 +4,11 @@ import "./Instructions.css";
 /* Assets */
 import Legend from "../assets/geo_detective_legend.png";
 
-export default function Instructions(props) {
+export default function Instructions (props) {
   const [showInstructions, setShowInstructions] = useState(false);
   const instructionRef = useRef();
 
-  const handlePress = async() => {
+  const handlePress = async () => {
     const instruction = showInstructions;
     await setShowInstructions(!showInstructions);
     if (instruction) {

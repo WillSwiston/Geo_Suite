@@ -15,7 +15,7 @@ import Regions from "../../json/lists/united_states_regions.json";
 import Minify from "../../const/Minify";
 
 let hints = {};
-export default function USCities(props) {
+export default function USCities (props) {
   const [currentCity, setCurrentCity] = useState();
   const [currentState, setCurrentState] = useState();
   const [points, setPoints] = useState(0);

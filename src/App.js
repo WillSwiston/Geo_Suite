@@ -19,7 +19,7 @@ import PixelatedFlagQuiz from "./pages/pixelated_flag_quiz/PixelatedFlagQuiz";
 import LanguageQuiz from "./pages/language_quiz/LanguageQuiz";
 import USCityQuiz from "./pages/us_city_quiz/USCityQuiz.js";
 
-function App() {
+function App () {
   return (
     <Suspense fallback="Loading...">
       <div className="app-wrapper">

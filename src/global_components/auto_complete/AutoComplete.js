@@ -5,7 +5,7 @@ import { Styles } from "./AutoCompleteStyles";
 import { States } from "../../const/States.js";
 import Countries from "../../json/lists/ISO_to_country_name";
 
-export default function AutoComplete(props) {
+export default function AutoComplete (props) {
   const [inputText, setInputText] = useState("");
   const inputRef = useRef();
 

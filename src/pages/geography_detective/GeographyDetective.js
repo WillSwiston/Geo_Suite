@@ -21,7 +21,7 @@ import ComputeColor from "./ComputeColor";
 import Minify from "../../const/Minify";
 
 let userGuesses = {};
-function GeographyDetective() {
+function GeographyDetective () {
   const [key, setKey] = useState(0);
   const [targetISO, setTargetISO] = useState(null);
   const [hasWon, setHasWon] = useState(false);
@@ -52,7 +52,7 @@ function GeographyDetective() {
     }
   };
 
-  const generateTargetCountry = async() => {
+  const generateTargetCountry = async () => {
     let tempChoices = choices;
 
     if (choices.length === 0) {

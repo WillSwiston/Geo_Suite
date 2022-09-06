@@ -20,6 +20,8 @@ def haversine(lat1, lon1, lat2, lon2):
 
 def main():
     """ Entrypoint, create distance json file based on coordinate input"""
+    threshold = int(sys.argv[2])
+
     with open(sys.argv[1], encoding="utf-8") as coordinate_data_file:
         file = json.load(coordinate_data_file)
         keys = list(file.keys())
@@ -46,10 +48,10 @@ def main():
                                 second_coordinate_pair[0],
                                 second_coordinate_pair[1]),
                             min_dist)
-                        if min_dist < 1:
+                        if min_dist < threshold: 
                             min_dist = 0
                             break
-                    if min_dist < 1:
+                    if min_dist < threshold:
                         break
                 distances[second_country] = min_dist
 

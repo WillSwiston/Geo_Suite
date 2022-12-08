@@ -41,6 +41,7 @@
 
 .nav-header-logo {
   width: 5em;
+  height: 5em !important;
 }
 
 @media only screen and (max-width: 600px) {

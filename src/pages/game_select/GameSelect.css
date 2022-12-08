@@ -1,0 +1,74 @@
+.game-select-wrapper {
+  position: absolute;
+  min-width: 200px;
+  width: 50%;
+  height: 90%;
+  left: 25%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  box-sizing: border-box;
+}
+
+.game-select-card-wrapper {
+  overflow-y: scroll;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: flex;
+  z-index: 999;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.game-select-value-option {
+  box-shadow: inset 0px 3px 10px 3px #000000, inset 0px 3px 10px #000000;
+  -webkit-box-shadow: inset 0px 3px 10px 3px #000000, inset 0px 3px 10px #000000;
+  background: repeating-radial-gradient(circle at -20% -20%, transparent 0, hsla(0, 0%, 0%, .2) 1px 4px, transparent 5px 8px) var(--background-color);
+  color: var(--main-color-light);
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.game-select-card-title {
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+.game-select-image-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.game-select-image-wrapper img {
+  border: 10px solid var(--background-color);
+  position: relative;
+  max-width: min(400px, 100%);
+}
+
+.game-select-button-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+
+.game-select-subtitle {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.game-select-instructions {
+  text-align: center;
+  font-size: 1rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  .game-select-button-wrapper {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

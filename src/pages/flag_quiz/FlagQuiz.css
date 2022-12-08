@@ -1,0 +1,85 @@
+.flag-quiz-wrapper {
+  --background-flag-quiz: var(--main-color-dark);
+  display: flex;
+  flex-direction: column;
+  background: var(--background-flag-quiz);
+  min-height: 100vh;
+}
+
+.flag-quiz-header-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.flag-quiz-wrapper img {
+  height: 30vh;
+}
+
+.flag-quiz-streak {
+  padding-bottom: 1em;
+  color: var(--main-color-light);
+}
+
+.flag-quiz-autocomplete-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.flag-quiz-footer {
+  position: fixed;
+  bottom: 0;
+  background: var(--main-color-light);
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  -webkit-box-shadow: 0px -7px 25px 5px #000000;
+  box-shadow: 0px -7px 25px 5px #000000;
+}
+
+.flag-quiz-footer-inner-wrapper {
+  width: 95%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10em;
+  text-align: center;
+}
+
+.flag-quiz-correct-answer {
+  --flag-quiz-card-background: #e5e3e5;
+  z-index: 999 !important;
+  color: var(--main-color-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.flag-quiz-correct-answer-card {
+  /* Override any incoming font manipulations */
+  font-size: 1.3rem;
+  font-weight: 200;
+  background: var(--flag-quiz-card-background);
+  box-shadow: 5px 5px 15px black;
+  z-index: 999 !important;
+  padding: 2em;
+}
+
+.flag-quiz-correct-answer span {
+  font-weight: 800;
+}
+
+@media only screen and (max-width: 600px) {
+  .flag-quiz-streak {
+    font-size: 1rem;
+  }
+}

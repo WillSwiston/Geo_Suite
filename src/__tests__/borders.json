@@ -1,0 +1,2579 @@
+[
+  {
+    "country_name": "Andorra",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Andorra",
+    "country_border_name": "Spain"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "country_border_name": "Oman"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "country_border_name": "Saudi Arabia"
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_border_name": "Pakistan"
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_border_name": "Tajikistan"
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_border_name": "Turkmenistan"
+  },
+  {
+    "country_name": "Afghanistan",
+    "country_border_name": "Uzbekistan"
+  },
+  {
+    "country_name": "Albania",
+    "country_border_name": "Greece"
+  },
+  {
+    "country_name": "Albania",
+    "country_border_name": "Montenegro"
+  },
+  {
+    "country_name": "Albania",
+    "country_border_name": "North Macedonia"
+  },
+  {
+    "country_name": "Albania",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Armenia",
+    "country_border_name": "Azerbaijan"
+  },
+  {
+    "country_name": "Armenia",
+    "country_border_name": "Georgia"
+  },
+  {
+    "country_name": "Armenia",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Armenia",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Angola",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Angola",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Angola",
+    "country_border_name": "Namibia"
+  },
+  {
+    "country_name": "Angola",
+    "country_border_name": "Zambia"
+  },
+  {
+    "country_name": "Argentina",
+    "country_border_name": "Bolivia"
+  },
+  {
+    "country_name": "Argentina",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Argentina",
+    "country_border_name": "Chile"
+  },
+  {
+    "country_name": "Argentina",
+    "country_border_name": "Paraguay"
+  },
+  {
+    "country_name": "Argentina",
+    "country_border_name": "Uruguay"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Czechia"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Italy"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Liechtenstein"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Slovakia"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Slovenia"
+  },
+  {
+    "country_name": "Austria",
+    "country_border_name": "Switzerland"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_border_name": "Armenia"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_border_name": "Georgia"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_border_name": "Croatia"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_border_name": "Montenegro"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Bangladesh",
+    "country_border_name": "India"
+  },
+  {
+    "country_name": "Bangladesh",
+    "country_border_name": "Myanmar"
+  },
+  {
+    "country_name": "Belgium",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Belgium",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Belgium",
+    "country_border_name": "Luxembourg"
+  },
+  {
+    "country_name": "Belgium",
+    "country_border_name": "Netherlands"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_border_name": "Benin"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_border_name": "Cote d’Ivoire"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_border_name": "Ghana"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_border_name": "Togo"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_border_name": "Greece"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_border_name": "North Macedonia"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_border_name": "Romania"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Burundi",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Burundi",
+    "country_border_name": "Rwanda"
+  },
+  {
+    "country_name": "Burundi",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Benin",
+    "country_border_name": "Burkina Faso"
+  },
+  {
+    "country_name": "Benin",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Benin",
+    "country_border_name": "Nigeria"
+  },
+  {
+    "country_name": "Benin",
+    "country_border_name": "Togo"
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "country_border_name": "Malaysia"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_border_name": "Argentina"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_border_name": "Chile"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_border_name": "Paraguay"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_border_name": "Peru"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Argentina"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Bolivia"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Colombia"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "French Guiana"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Guyana"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Paraguay"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Peru"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Suriname"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Uruguay"
+  },
+  {
+    "country_name": "Brazil",
+    "country_border_name": "Venezuela"
+  },
+  {
+    "country_name": "Bhutan",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Bhutan",
+    "country_border_name": "India"
+  },
+  {
+    "country_name": "Botswana",
+    "country_border_name": "Namibia"
+  },
+  {
+    "country_name": "Botswana",
+    "country_border_name": "South Africa"
+  },
+  {
+    "country_name": "Botswana",
+    "country_border_name": "Zambia"
+  },
+  {
+    "country_name": "Botswana",
+    "country_border_name": "Zimbabwe"
+  },
+  {
+    "country_name": "Belarus",
+    "country_border_name": "Latvia"
+  },
+  {
+    "country_name": "Belarus",
+    "country_border_name": "Lithuania"
+  },
+  {
+    "country_name": "Belarus",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Belarus",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Belarus",
+    "country_border_name": "Ukraine"
+  },
+  {
+    "country_name": "Belize",
+    "country_border_name": "Guatemala"
+  },
+  {
+    "country_name": "Belize",
+    "country_border_name": "Mexico"
+  },
+  {
+    "country_name": "Canada",
+    "country_border_name": "United States of America"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Angola"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Burundi"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Central African Republic"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Rwanda"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "South Sudan"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Uganda"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Zambia"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_border_name": "Cameroon"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_border_name": "Chad"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_border_name": "South Sudan"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Angola"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Cameroon"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Central African Republic"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Congo",
+    "country_border_name": "Gabon"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_border_name": "Italy"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_border_name": "Liechtenstein"
+  },
+  {
+    "country_name": "Cote d’Ivoire",
+    "country_border_name": "Burkina Faso"
+  },
+  {
+    "country_name": "Cote d’Ivoire",
+    "country_border_name": "Ghana"
+  },
+  {
+    "country_name": "Cote d’Ivoire",
+    "country_border_name": "Guinea"
+  },
+  {
+    "country_name": "Cote d’Ivoire",
+    "country_border_name": "Liberia"
+  },
+  {
+    "country_name": "Cote d’Ivoire",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Chile",
+    "country_border_name": "Argentina"
+  },
+  {
+    "country_name": "Chile",
+    "country_border_name": "Bolivia"
+  },
+  {
+    "country_name": "Chile",
+    "country_border_name": "Peru"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_border_name": "Central African Republic"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_border_name": "Chad"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_border_name": "Equatorial Guinea"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_border_name": "Gabon"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_border_name": "Nigeria"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Afghanistan"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Bhutan"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Hong Kong"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "India"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Kazakhstan"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Korea"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Kyrgyzstan"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Lao People's Democratic Republic"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Macao"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Mongolia"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Myanmar"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Nepal"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Pakistan"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Tajikistan"
+  },
+  {
+    "country_name": "China",
+    "country_border_name": "Viet Nam"
+  },
+  {
+    "country_name": "Colombia",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Colombia",
+    "country_border_name": "Ecuador"
+  },
+  {
+    "country_name": "Colombia",
+    "country_border_name": "Panama"
+  },
+  {
+    "country_name": "Colombia",
+    "country_border_name": "Peru"
+  },
+  {
+    "country_name": "Colombia",
+    "country_border_name": "Venezuela"
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_border_name": "Nicaragua"
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_border_name": "Panama"
+  },
+  {
+    "country_name": "Czechia",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Czechia",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Czechia",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Czechia",
+    "country_border_name": "Slovakia"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Belgium"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Czechia"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Denmark"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Luxembourg"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Netherlands"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Germany",
+    "country_border_name": "Switzerland"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_border_name": "Eritrea"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_border_name": "Ethiopia"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_border_name": "Somalia"
+  },
+  {
+    "country_name": "Denmark",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "country_border_name": "Haiti"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Libya"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Mauritania"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Morocco"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Tunisia"
+  },
+  {
+    "country_name": "Algeria",
+    "country_border_name": "Western Sahara"
+  },
+  {
+    "country_name": "Ecuador",
+    "country_border_name": "Colombia"
+  },
+  {
+    "country_name": "Ecuador",
+    "country_border_name": "Peru"
+  },
+  {
+    "country_name": "Estonia",
+    "country_border_name": "Latvia"
+  },
+  {
+    "country_name": "Estonia",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Egypt",
+    "country_border_name": "Israel"
+  },
+  {
+    "country_name": "Egypt",
+    "country_border_name": "Libya"
+  },
+  {
+    "country_name": "Egypt",
+    "country_border_name": "Palestine"
+  },
+  {
+    "country_name": "Egypt",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "Western Sahara",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Western Sahara",
+    "country_border_name": "Mauritania"
+  },
+  {
+    "country_name": "Western Sahara",
+    "country_border_name": "Morocco"
+  },
+  {
+    "country_name": "Eritrea",
+    "country_border_name": "Djibouti"
+  },
+  {
+    "country_name": "Eritrea",
+    "country_border_name": "Ethiopia"
+  },
+  {
+    "country_name": "Eritrea",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "Spain",
+    "country_border_name": "Andorra"
+  },
+  {
+    "country_name": "Spain",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Spain",
+    "country_border_name": "Gibraltar"
+  },
+  {
+    "country_name": "Spain",
+    "country_border_name": "Morocco"
+  },
+  {
+    "country_name": "Spain",
+    "country_border_name": "Portugal"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_border_name": "Djibouti"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_border_name": "Eritrea"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_border_name": "Kenya"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_border_name": "Somalia"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_border_name": "South Sudan"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "Finland",
+    "country_border_name": "Norway"
+  },
+  {
+    "country_name": "Finland",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Finland",
+    "country_border_name": "Sweden"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Andorra"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Belgium"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Italy"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Luxembourg"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Monaco"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Spain"
+  },
+  {
+    "country_name": "France",
+    "country_border_name": "Switzerland"
+  },
+  {
+    "country_name": "Gabon",
+    "country_border_name": "Cameroon"
+  },
+  {
+    "country_name": "Gabon",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Gabon",
+    "country_border_name": "Equatorial Guinea"
+  },
+  {
+    "country_name": "United Kingdom of Great Britain and Northern Ireland",
+    "country_border_name": "Ireland"
+  },
+  {
+    "country_name": "Georgia",
+    "country_border_name": "Armenia"
+  },
+  {
+    "country_name": "Georgia",
+    "country_border_name": "Azerbaijan"
+  },
+  {
+    "country_name": "Georgia",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Georgia",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "French Guiana",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "French Guiana",
+    "country_border_name": "Suriname"
+  },
+  {
+    "country_name": "Ghana",
+    "country_border_name": "Burkina Faso"
+  },
+  {
+    "country_name": "Ghana",
+    "country_border_name": "Cote d’Ivoire"
+  },
+  {
+    "country_name": "Ghana",
+    "country_border_name": "Togo"
+  },
+  {
+    "country_name": "Gibraltar",
+    "country_border_name": "Spain"
+  },
+  {
+    "country_name": "Gambia",
+    "country_border_name": "Senegal"
+  },
+  {
+    "country_name": "Guinea",
+    "country_border_name": "Cote d’Ivoire"
+  },
+  {
+    "country_name": "Guinea",
+    "country_border_name": "Guinea-Bissau"
+  },
+  {
+    "country_name": "Guinea",
+    "country_border_name": "Liberia"
+  },
+  {
+    "country_name": "Guinea",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Guinea",
+    "country_border_name": "Senegal"
+  },
+  {
+    "country_name": "Guinea",
+    "country_border_name": "Sierra Leone"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_border_name": "Cameroon"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_border_name": "Gabon"
+  },
+  {
+    "country_name": "Greece",
+    "country_border_name": "Albania"
+  },
+  {
+    "country_name": "Greece",
+    "country_border_name": "Bulgaria"
+  },
+  {
+    "country_name": "Greece",
+    "country_border_name": "North Macedonia"
+  },
+  {
+    "country_name": "Greece",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_border_name": "Belize"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_border_name": "El Salvador"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_border_name": "Honduras"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_border_name": "Mexico"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_border_name": "Guinea"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_border_name": "Senegal"
+  },
+  {
+    "country_name": "Guyana",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Guyana",
+    "country_border_name": "Suriname"
+  },
+  {
+    "country_name": "Guyana",
+    "country_border_name": "Venezuela"
+  },
+  {
+    "country_name": "Hong Kong",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Honduras",
+    "country_border_name": "El Salvador"
+  },
+  {
+    "country_name": "Honduras",
+    "country_border_name": "Guatemala"
+  },
+  {
+    "country_name": "Honduras",
+    "country_border_name": "Nicaragua"
+  },
+  {
+    "country_name": "Croatia",
+    "country_border_name": "Bosnia and Herzegovina"
+  },
+  {
+    "country_name": "Croatia",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Croatia",
+    "country_border_name": "Montenegro"
+  },
+  {
+    "country_name": "Croatia",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Croatia",
+    "country_border_name": "Slovenia"
+  },
+  {
+    "country_name": "Haiti",
+    "country_border_name": "Dominican Republic"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Croatia"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Romania"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Slovakia"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Slovenia"
+  },
+  {
+    "country_name": "Hungary",
+    "country_border_name": "Ukraine"
+  },
+  {
+    "country_name": "Indonesia",
+    "country_border_name": "Malaysia"
+  },
+  {
+    "country_name": "Indonesia",
+    "country_border_name": "Papua New Guinea"
+  },
+  {
+    "country_name": "Indonesia",
+    "country_border_name": "Timor-Leste"
+  },
+  {
+    "country_name": "Ireland",
+    "country_border_name": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "country_name": "Israel",
+    "country_border_name": "Egypt"
+  },
+  {
+    "country_name": "Israel",
+    "country_border_name": "Jordan"
+  },
+  {
+    "country_name": "Israel",
+    "country_border_name": "Lebanon"
+  },
+  {
+    "country_name": "Israel",
+    "country_border_name": "Palestine"
+  },
+  {
+    "country_name": "Israel",
+    "country_border_name": "Syrian Arab Republic"
+  },
+  {
+    "country_name": "India",
+    "country_border_name": "Bangladesh"
+  },
+  {
+    "country_name": "India",
+    "country_border_name": "Bhutan"
+  },
+  {
+    "country_name": "India",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "India",
+    "country_border_name": "Myanmar"
+  },
+  {
+    "country_name": "India",
+    "country_border_name": "Nepal"
+  },
+  {
+    "country_name": "India",
+    "country_border_name": "Pakistan"
+  },
+  {
+    "country_name": "Iraq",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Iraq",
+    "country_border_name": "Jordan"
+  },
+  {
+    "country_name": "Iraq",
+    "country_border_name": "Kuwait"
+  },
+  {
+    "country_name": "Iraq",
+    "country_border_name": "Saudi Arabia"
+  },
+  {
+    "country_name": "Iraq",
+    "country_border_name": "Syrian Arab Republic"
+  },
+  {
+    "country_name": "Iraq",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Afghanistan"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Armenia"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Azerbaijan"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Iraq"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Pakistan"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Iran",
+    "country_border_name": "Turkmenistan"
+  },
+  {
+    "country_name": "Italy",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Italy",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Italy",
+    "country_border_name": "San Marino"
+  },
+  {
+    "country_name": "Italy",
+    "country_border_name": "Slovenia"
+  },
+  {
+    "country_name": "Italy",
+    "country_border_name": "Switzerland"
+  },
+  {
+    "country_name": "Italy",
+    "country_border_name": "Holy See"
+  },
+  {
+    "country_name": "Jordan",
+    "country_border_name": "Iraq"
+  },
+  {
+    "country_name": "Jordan",
+    "country_border_name": "Israel"
+  },
+  {
+    "country_name": "Jordan",
+    "country_border_name": "Palestine"
+  },
+  {
+    "country_name": "Jordan",
+    "country_border_name": "Saudi Arabia"
+  },
+  {
+    "country_name": "Jordan",
+    "country_border_name": "Syrian Arab Republic"
+  },
+  {
+    "country_name": "Kenya",
+    "country_border_name": "Ethiopia"
+  },
+  {
+    "country_name": "Kenya",
+    "country_border_name": "Somalia"
+  },
+  {
+    "country_name": "Kenya",
+    "country_border_name": "South Sudan"
+  },
+  {
+    "country_name": "Kenya",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Kenya",
+    "country_border_name": "Uganda"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "country_border_name": "Kazakhstan"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "country_border_name": "Tajikistan"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "country_border_name": "Uzbekistan"
+  },
+  {
+    "country_name": "Cambodia",
+    "country_border_name": "Lao People's Democratic Republic"
+  },
+  {
+    "country_name": "Cambodia",
+    "country_border_name": "Thailand"
+  },
+  {
+    "country_name": "Cambodia",
+    "country_border_name": "Viet Nam"
+  },
+  {
+    "country_name": "Korea",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Korea",
+    "country_border_name": "Korea"
+  },
+  {
+    "country_name": "Korea",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Korea",
+    "country_border_name": "Korea"
+  },
+  {
+    "country_name": "Kuwait",
+    "country_border_name": "Iraq"
+  },
+  {
+    "country_name": "Kuwait",
+    "country_border_name": "Saudi Arabia"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_border_name": "Kyrgyzstan"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_border_name": "Turkmenistan"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_border_name": "Uzbekistan"
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "country_border_name": "Cambodia"
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "country_border_name": "Myanmar"
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "country_border_name": "Thailand"
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "country_border_name": "Viet Nam"
+  },
+  {
+    "country_name": "Lebanon",
+    "country_border_name": "Israel"
+  },
+  {
+    "country_name": "Lebanon",
+    "country_border_name": "Syrian Arab Republic"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "country_border_name": "Switzerland"
+  },
+  {
+    "country_name": "Liberia",
+    "country_border_name": "Cote d’Ivoire"
+  },
+  {
+    "country_name": "Liberia",
+    "country_border_name": "Guinea"
+  },
+  {
+    "country_name": "Liberia",
+    "country_border_name": "Sierra Leone"
+  },
+  {
+    "country_name": "Lesotho",
+    "country_border_name": "South Africa"
+  },
+  {
+    "country_name": "Lithuania",
+    "country_border_name": "Belarus"
+  },
+  {
+    "country_name": "Lithuania",
+    "country_border_name": "Latvia"
+  },
+  {
+    "country_name": "Lithuania",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Lithuania",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_border_name": "Belgium"
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Latvia",
+    "country_border_name": "Belarus"
+  },
+  {
+    "country_name": "Latvia",
+    "country_border_name": "Estonia"
+  },
+  {
+    "country_name": "Latvia",
+    "country_border_name": "Lithuania"
+  },
+  {
+    "country_name": "Latvia",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Libya",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Libya",
+    "country_border_name": "Chad"
+  },
+  {
+    "country_name": "Libya",
+    "country_border_name": "Egypt"
+  },
+  {
+    "country_name": "Libya",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Libya",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "Libya",
+    "country_border_name": "Tunisia"
+  },
+  {
+    "country_name": "Morocco",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Morocco",
+    "country_border_name": "Spain"
+  },
+  {
+    "country_name": "Morocco",
+    "country_border_name": "Western Sahara"
+  },
+  {
+    "country_name": "Monaco",
+    "country_border_name": "France"
+  },
+  {
+    "country_name": "Moldova",
+    "country_border_name": "Romania"
+  },
+  {
+    "country_name": "Moldova",
+    "country_border_name": "Ukraine"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_border_name": "Albania"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_border_name": "Bosnia and Herzegovina"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_border_name": "Croatia"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Saint Martin",
+    "country_border_name": "Sint Maarten"
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_border_name": "Albania"
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_border_name": "Bulgaria"
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_border_name": "Greece"
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Burkina Faso"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Cote d’Ivoire"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Guinea"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Mauritania"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Mali",
+    "country_border_name": "Senegal"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_border_name": "Bangladesh"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_border_name": "India"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_border_name": "Lao People's Democratic Republic"
+  },
+  {
+    "country_name": "Myanmar",
+    "country_border_name": "Thailand"
+  },
+  {
+    "country_name": "Mongolia",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Mongolia",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Macao",
+    "country_border_name": "China"
+  },
+
+  {
+    "country_name": "Mauritania",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_border_name": "Senegal"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_border_name": "Western Sahara"
+  },
+  {
+    "country_name": "Malawi",
+    "country_border_name": "Mozambique"
+  },
+  {
+    "country_name": "Malawi",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Malawi",
+    "country_border_name": "Zambia"
+  },
+  {
+    "country_name": "Mexico",
+    "country_border_name": "Belize"
+  },
+  {
+    "country_name": "Mexico",
+    "country_border_name": "Guatemala"
+  },
+  {
+    "country_name": "Mexico",
+    "country_border_name": "United States of America"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_border_name": "Brunei Darussalam"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_border_name": "Indonesia"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_border_name": "Thailand"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_border_name": "Malawi"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_border_name": "Eswatini"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_border_name": "South Africa"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_border_name": "Zambia"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_border_name": "Zimbabwe"
+  },
+  {
+    "country_name": "Namibia",
+    "country_border_name": "Angola"
+  },
+  {
+    "country_name": "Namibia",
+    "country_border_name": "Botswana"
+  },
+  {
+    "country_name": "Namibia",
+    "country_border_name": "South Africa"
+  },
+  {
+    "country_name": "Namibia",
+    "country_border_name": "Zambia"
+  },
+
+  {
+    "country_name": "Niger",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Niger",
+    "country_border_name": "Benin"
+  },
+  {
+    "country_name": "Niger",
+    "country_border_name": "Burkina Faso"
+  },
+  {
+    "country_name": "Niger",
+    "country_border_name": "Chad"
+  },
+  {
+    "country_name": "Niger",
+    "country_border_name": "Libya"
+  },
+  {
+    "country_name": "Niger",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Niger",
+    "country_border_name": "Nigeria"
+  },
+
+  {
+    "country_name": "Nigeria",
+    "country_border_name": "Benin"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_border_name": "Cameroon"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_border_name": "Chad"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_border_name": "Costa Rica"
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_border_name": "Honduras"
+  },
+  {
+    "country_name": "Netherlands",
+    "country_border_name": "Belgium"
+  },
+  {
+    "country_name": "Netherlands",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Norway",
+    "country_border_name": "Finland"
+  },
+  {
+    "country_name": "Norway",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Norway",
+    "country_border_name": "Sweden"
+  },
+  {
+    "country_name": "Nepal",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Nepal",
+    "country_border_name": "India"
+  },
+
+  {
+    "country_name": "Oman",
+    "country_border_name": "United Arab Emirates"
+  },
+  {
+    "country_name": "Oman",
+    "country_border_name": "Saudi Arabia"
+  },
+  {
+    "country_name": "Oman",
+    "country_border_name": "Yemen"
+  },
+  {
+    "country_name": "Panama",
+    "country_border_name": "Colombia"
+  },
+  {
+    "country_name": "Panama",
+    "country_border_name": "Costa Rica"
+  },
+  {
+    "country_name": "Peru",
+    "country_border_name": "Bolivia"
+  },
+  {
+    "country_name": "Peru",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Peru",
+    "country_border_name": "Chile"
+  },
+  {
+    "country_name": "Peru",
+    "country_border_name": "Colombia"
+  },
+  {
+    "country_name": "Peru",
+    "country_border_name": "Ecuador"
+  },
+
+  {
+    "country_name": "Papua New Guinea",
+    "country_border_name": "Indonesia"
+  },
+
+  {
+    "country_name": "Pakistan",
+    "country_border_name": "Afghanistan"
+  },
+  {
+    "country_name": "Pakistan",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Pakistan",
+    "country_border_name": "India"
+  },
+  {
+    "country_name": "Pakistan",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Belarus"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Czechia"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Germany"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Lithuania"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Slovakia"
+  },
+  {
+    "country_name": "Poland",
+    "country_border_name": "Ukraine"
+  },
+
+  {
+    "country_name": "Palestine",
+    "country_border_name": "Egypt"
+  },
+  {
+    "country_name": "Palestine",
+    "country_border_name": "Israel"
+  },
+  {
+    "country_name": "Palestine",
+    "country_border_name": "Jordan"
+  },
+  {
+    "country_name": "Portugal",
+    "country_border_name": "Spain"
+  },
+
+  {
+    "country_name": "Paraguay",
+    "country_border_name": "Argentina"
+  },
+  {
+    "country_name": "Paraguay",
+    "country_border_name": "Bolivia"
+  },
+  {
+    "country_name": "Paraguay",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Qatar",
+    "country_border_name": "Saudi Arabia"
+  },
+
+  {
+    "country_name": "Romania",
+    "country_border_name": "Bulgaria"
+  },
+  {
+    "country_name": "Romania",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Romania",
+    "country_border_name": "Moldova"
+  },
+  {
+    "country_name": "Romania",
+    "country_border_name": "Serbia"
+  },
+  {
+    "country_name": "Romania",
+    "country_border_name": "Ukraine"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Albania"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Bosnia and Herzegovina"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Bulgaria"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Croatia"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Montenegro"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "North Macedonia"
+  },
+  {
+    "country_name": "Serbia",
+    "country_border_name": "Romania"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Azerbaijan"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Belarus"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Estonia"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Finland"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Georgia"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Kazakhstan"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Korea"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Latvia"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Lithuania"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Mongolia"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Norway"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Russian",
+    "country_border_name": "Ukraine"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_border_name": "Burundi"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_border_name": "Uganda"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "Iraq"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "Jordan"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "Kuwait"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "Oman"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "Qatar"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "United Arab Emirates"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_border_name": "Yemen"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "Central African Republic"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "Chad"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "Egypt"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "Ethiopia"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "Eritrea"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "Libya"
+  },
+  {
+    "country_name": "Sudan",
+    "country_border_name": "South Sudan"
+  },
+  {
+    "country_name": "Sweden",
+    "country_border_name": "Finland"
+  },
+  {
+    "country_name": "Sweden",
+    "country_border_name": "Norway"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_border_name": "Croatia"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_border_name": "Italy"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_border_name": "Austria"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_border_name": "Czechia"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_border_name": "Ukraine"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_border_name": "Guinea"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_border_name": "Liberia"
+  },
+  {
+    "country_name": "San Marino",
+    "country_border_name": "Italy"
+  },
+  {
+    "country_name": "Senegal",
+    "country_border_name": "Gambia"
+  },
+  {
+    "country_name": "Senegal",
+    "country_border_name": "Guinea"
+  },
+  {
+    "country_name": "Senegal",
+    "country_border_name": "Guinea-Bissau"
+  },
+  {
+    "country_name": "Senegal",
+    "country_border_name": "Mali"
+  },
+  {
+    "country_name": "Senegal",
+    "country_border_name": "Mauritania"
+  },
+  {
+    "country_name": "Somalia",
+    "country_border_name": "Djibouti"
+  },
+  {
+    "country_name": "Somalia",
+    "country_border_name": "Ethiopia"
+  },
+  {
+    "country_name": "Somalia",
+    "country_border_name": "Kenya"
+  },
+  {
+    "country_name": "Suriname",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Suriname",
+    "country_border_name": "French Guiana"
+  },
+  {
+    "country_name": "Suriname",
+    "country_border_name": "Guyana"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_border_name": "Central African Republic"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_border_name": "Ethiopia"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_border_name": "Kenya"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_border_name": "Uganda"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_border_name": "Guatemala"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_border_name": "Honduras"
+  },
+  {
+    "country_name": "Sint Maarten",
+    "country_border_name": "Saint Martin"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_border_name": "Iraq"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_border_name": "Israel"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_border_name": "Jordan"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_border_name": "Lebanon"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_border_name": "Turkey"
+  },
+  {
+    "country_name": "Eswatini",
+    "country_border_name": "Mozambique"
+  },
+  {
+    "country_name": "Eswatini",
+    "country_border_name": "South Africa"
+  },
+  {
+    "country_name": "Chad",
+    "country_border_name": "Cameroon"
+  },
+  {
+    "country_name": "Chad",
+    "country_border_name": "Central African Republic"
+  },
+  {
+    "country_name": "Chad",
+    "country_border_name": "Libya"
+  },
+  {
+    "country_name": "Chad",
+    "country_border_name": "Niger"
+  },
+  {
+    "country_name": "Chad",
+    "country_border_name": "Nigeria"
+  },
+  {
+    "country_name": "Chad",
+    "country_border_name": "Sudan"
+  },
+  {
+    "country_name": "Togo",
+    "country_border_name": "Benin"
+  },
+  {
+    "country_name": "Togo",
+    "country_border_name": "Burkina Faso"
+  },
+  {
+    "country_name": "Togo",
+    "country_border_name": "Ghana"
+  },
+  {
+    "country_name": "Thailand",
+    "country_border_name": "Cambodia"
+  },
+  {
+    "country_name": "Thailand",
+    "country_border_name": "Lao People's Democratic Republic"
+  },
+  {
+    "country_name": "Thailand",
+    "country_border_name": "Malaysia"
+  },
+  {
+    "country_name": "Thailand",
+    "country_border_name": "Myanmar"
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_border_name": "Afghanistan"
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_border_name": "Kyrgyzstan"
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_border_name": "Uzbekistan"
+  },
+  {
+    "country_name": "Timor-Leste",
+    "country_border_name": "Indonesia"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_border_name": "Afghanistan"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_border_name": "Kazakhstan"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_border_name": "Uzbekistan"
+  },
+  {
+    "country_name": "Tunisia",
+    "country_border_name": "Algeria"
+  },
+  {
+    "country_name": "Tunisia",
+    "country_border_name": "Libya"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Armenia"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Azerbaijan"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Bulgaria"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Georgia"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Greece"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Iran"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Iraq"
+  },
+  {
+    "country_name": "Turkey",
+    "country_border_name": "Syrian Arab Republic"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Burundi"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Kenya"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Malawi"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Mozambique"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Rwanda"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Uganda"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_border_name": "Zambia"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Belarus"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Hungary"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Moldova"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Poland"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Romania"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Russian"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_border_name": "Slovakia"
+  },
+  {
+    "country_name": "Uganda",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Uganda",
+    "country_border_name": "Kenya"
+  },
+  {
+    "country_name": "Uganda",
+    "country_border_name": "Rwanda"
+  },
+  {
+    "country_name": "Uganda",
+    "country_border_name": "South Sudan"
+  },
+  {
+    "country_name": "Uganda",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "United States of America",
+    "country_border_name": "Canada"
+  },
+  {
+    "country_name": "United States of America",
+    "country_border_name": "Mexico"
+  },
+  {
+    "country_name": "Uruguay",
+    "country_border_name": "Argentina"
+  },
+  {
+    "country_name": "Uruguay",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_border_name": "Afghanistan"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_border_name": "Kazakhstan"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_border_name": "Kyrgyzstan"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_border_name": "Tajikistan"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_border_name": "Turkmenistan"
+  },
+  {
+    "country_name": "Holy See",
+    "country_border_name": "Italy"
+  },
+  {
+    "country_name": "Venezuela",
+    "country_border_name": "Brazil"
+  },
+  {
+    "country_name": "Venezuela",
+    "country_border_name": "Colombia"
+  },
+  {
+    "country_name": "Venezuela",
+    "country_border_name": "Guyana"
+  },
+  {
+    "country_name": "Viet Nam",
+    "country_border_name": "Cambodia"
+  },
+  {
+    "country_name": "Viet Nam",
+    "country_border_name": "China"
+  },
+  {
+    "country_name": "Viet Nam",
+    "country_border_name": "Lao People's Democratic Republic"
+  },
+  {
+    "country_name": "Yemen",
+    "country_border_name": "Oman"
+  },
+  {
+    "country_name": "Yemen",
+    "country_border_name": "Saudi Arabia"
+  },
+  {
+    "country_name": "South Africa",
+    "country_border_name": "Botswana"
+  },
+  {
+    "country_name": "South Africa",
+    "country_border_name": "Lesotho"
+  },
+  {
+    "country_name": "South Africa",
+    "country_border_name": "Mozambique"
+  },
+  {
+    "country_name": "South Africa",
+    "country_border_name": "Namibia"
+  },
+  {
+    "country_name": "South Africa",
+    "country_border_name": "Eswatini"
+  },
+  {
+    "country_name": "South Africa",
+    "country_border_name": "Zimbabwe"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Angola"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Botswana"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Congo"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Malawi"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Mozambique"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Namibia"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Tanzania"
+  },
+  {
+    "country_name": "Zambia",
+    "country_border_name": "Zimbabwe"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_border_name": "Botswana"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_border_name": "Mozambique"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_border_name": "South Africa"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_border_name": "Zambia"
+  }
+]

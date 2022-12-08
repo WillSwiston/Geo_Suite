@@ -1,0 +1,352 @@
+{
+	"Alabama": {
+		"Huntsville": 215006,
+		"Birmingham": 200733,
+		"Montgomery": 200603,
+		"Mobile": 187041,
+		"Tuscaloosa": 99600
+	},
+	"Alaska": {
+		"Anchorage": 291538,
+		"Juneau": 32197,
+		"Fairbanks": 31516,
+		"Wasilla": 10529,
+		"Sitka": 8647
+	},
+	"Arizona": {
+		"Phoenix": 1660272,
+		"Tucson": 545975,
+		"Mesa": 508958,
+		"Chandler": 257165,
+		"Scottsdale": 255310
+	},
+	"Arkansas": {
+		"Little Rock": 202591,
+		"Fayetteville": 93949,
+		"Fort Smith": 89142,
+		"Springdale": 84161,
+		"Jonesboro": 78576
+	},
+	"California": {
+		"Los Angeles": 3997984,
+		"San Diego": 1425976,
+		"San Jose": 1030119,
+		"San Francisco": 884198,
+		"Fresno": 530093
+	},
+	"Colorado": {
+		"Denver": 719238,
+		"Colorado Springs": 483829,
+		"Aurora": 374114,
+		"Fort Collins": 167830,
+		"Lakewood": 156798
+	},
+	"Connecticut": {
+		"Bridgeport": 148654,
+		"Stamford": 135470,
+		"New Haven": 134023,
+		"Hartford": 121054,
+		"Waterbury": 114403
+	},
+	"Delaware": {
+		"Wilmington": 70635,
+		"Dover": 38079,
+		"Newark": 33673,
+		"Middletown": 22582,
+		"Smyrna": 11580
+	},
+	"Florida": {
+		"Jacksonville": 949611,
+		"Miami": 467963,
+		"Tampa": 384959,
+		"Orlando": 307573,
+		"St. Petersburg": 258308
+	},
+	"Georgia": {
+		"Atlanta": 498715,
+		"Columbus": 206922,
+		"Augusta": 202081,
+		"Macon": 157346,
+		"Savannah": 147780
+	},
+	"Hawaii": {
+		"Honolulu": 347397,
+		"East Honolulu": 49914,
+		"Pearl City": 47698,
+		"Hilo": 43263,
+		"Kailua": 38635
+	},
+	"Idaho": {
+		"Boise": 228790,
+		"Meridian": 106894,
+		"Nampa": 96252,
+		"Idaho Falls": 63398,
+		"Caldwell": 56541
+	},
+	"Illinois": {
+		"Chicago": 2705994,
+		"Aurora": 198187,
+		"Naperville": 148304,
+		"Joliet": 148099,
+		"Rockford": 146526
+	},
+	"Indiana": {
+		"Indianapolis": 867125,
+		"Fort Wayne": 267633,
+		"Evansville": 117963,
+		"South Bend": 103290,
+		"Carmel": 99329
+	},
+	"Iowa": {
+		"Des Moines": 216853,
+		"Cedar Rapids": 133174,
+		"Davenport": 102085,
+		"Sioux City": 82396,
+		"Iowa City": 76290
+	},
+	"Kansas": {
+		"Wichita": 389225,
+		"Overland Park": 197219,
+		"Kansas City": 152958,
+		"Olathe": 139605,
+		"Topeka": 125904
+	},
+	"Kentucky": {
+		"Louisville": 620578,
+		"Lexington": 323780,
+		"Bowling Green": 68401,
+		"Owensboro": 59809,
+		"Covington": 40366
+	},
+	"Louisiana": {
+		"New Orleans": 399187,
+		"Baton Rouge": 221599,
+		"Shreveport": 185902,
+		"Lafayette": 126143,
+		"Lake Charles": 78001
+	},
+	"Maine": {
+		"Portland": 66417,
+		"Lewiston": 35944,
+		"Bangor": 31997,
+		"South Portland": 25606,
+		"Auburn": 23196
+	},
+	"Maryland": {
+		"Baltimore": 594282,
+		"Columbia": 104156,
+		"Germantown": 91347,
+		"Silver Spring": 83267,
+		"Waldorf": 78904
+	},
+	"Massachusetts": {
+		"Boston": 699927,
+		"Worcester": 185877,
+		"Springfield": 155032,
+		"Cambridge": 118977,
+		"Lowell": 111670
+	},
+	"Michigan": {
+		"Detroit": 672662,
+		"Grand Rapids": 200217,
+		"Warren": 134587,
+		"Sterling Heights": 132964,
+		"Ann Arbor": 121890
+	},
+	"Minnesota": {
+		"Minneapolis": 427728,
+		"Saint Paul": 312818,
+		"Rochester": 117902,
+		"Duluth": 85884,
+		"Bloomington": 85578
+	},
+	"Mississippi": {
+		"Jackson": 164422,
+		"Gulfport": 71870,
+		"Southaven": 54944,
+		"Biloxi": 45968,
+		"Hattiesburg": 45951
+	},
+	"Missouri": {
+		"Kansas City": 507928,
+		"Saint Louis": 302838,
+		"Springfield": 168122,
+		"Columbia": 123180,
+		"Independence": 116925
+	},
+	"Montana": {
+		"Billings": 116827,
+		"Missoula": 74428,
+		"Great Falls": 58701,
+		"Bozeman": 48532,
+		"Butte": 34284
+	},
+	"Nebraska": {
+		"Omaha": 468262,
+		"Lincoln": 287401,
+		"Bellevue": 53627,
+		"Grand Island": 51478,
+		"Kearney": 33761
+	},
+	"Nevada": {
+		"Las Vegas": 649876,
+		"Henderson": 317189,
+		"Reno": 259746,
+		"North Las Vegas": 246133,
+		"Paradise": 219178
+	},
+	"New Hampshire": {
+		"Manchester": 112525,
+		"Nashua": 89246,
+		"Concord": 43412,
+		"Dover": 31771,
+		"Rochester": 31366
+	},
+	"New Jersey": {
+		"Newark": 282090,
+		"Jersey City": 265549,
+		"Paterson": 145627,
+		"Elizabeth": 128885,
+		"Edison": 100008
+	},
+	"New Mexico": {
+		"Albuquerque": 560218,
+		"Las Cruces": 102926,
+		"Rio Rancho": 98023,
+		"Santa Fe": 94528,
+		"Roswell": 47635
+	},
+	"New York": {
+		"New York City": 8879928,
+		"Buffalo": 278349,
+		"Yonkers": 211569,
+		"Rochester": 211328,
+		"Syracuse": 142749
+	},
+	"North Carolina": {
+		"Charlotte": 882367,
+		"Raleigh": 478956,
+		"Greensboro": 298329,
+		"Durham": 278547,
+		"Winston-Salem": 248232
+	},
+	"North Dakota": {
+		"Fargo": 124844,
+		"Bismarck": 73112,
+		"Grand Forks": 56948,
+		"Minot": 47340,
+		"West Fargo": 36566
+	},
+	"Ohio": {
+		"Columbus": 895477,
+		"Cleveland": 382817,
+		"Cincinnati": 302605,
+		"Toledo": 273782,
+		"Akron": 198006
+	},
+	"Oklahoma": {
+		"Oklahoma City": 649021,
+		"Tulsa": 400669,
+		"Norman": 123471,
+		"Broken Arrow": 109471,
+		"Edmond": 93127
+	},
+	"Oregon": {
+		"Portland": 661189,
+		"Salem": 173442,
+		"Eugene": 171245,
+		"Gresham": 110158,
+		"Hillsboro": 108389
+	},
+	"Pennsylvania": {
+		"Philadelphia": 1587828,
+		"Pittsburgh": 301048,
+		"Allentown": 126238,
+		"Erie": 96471,
+		"Reading": 88495
+	},
+	"Rhode Island": {
+		"Providence": 179335,
+		"Cranston": 81274,
+		"Warwick": 80847,
+		"Pawtucket": 71847,
+		"East Providence": 47476
+	},
+	"South Carolina": {
+		"Charleston": 150277,
+		"Columbia": 136632,
+		"North Charleston": 114852,
+		"Mount Pleasant": 90801,
+		"Rock Hill": 74372
+	},
+	"South Dakota": {
+		"Sioux Falls": 181883,
+		"Rapid City": 75443,
+		"Aberdeen": 28562,
+		"Brookings": 24509,
+		"Watertown": 22655
+	},
+	"Tennessee": {
+		"Nashville": 681928,
+		"Memphis": 650618,
+		"Knoxville": 187500,
+		"Chattanooga": 180557,
+		"Clarksville": 163648
+	},
+	"Texas": {
+		"Houston": 2325502,
+		"San Antonio": 1532233,
+		"Dallas": 1356785,
+		"Austin": 993649,
+		"Fort Worth": 902938
+	},
+	"Utah": {
+		"Salt Lake City": 200591,
+		"West Valley City": 136401,
+		"Provo": 118178,
+		"West Jordan": 116046,
+		"Orem": 97521
+	},
+	"Vermont": {
+		"Burlington": 42899,
+		"South Burlington": 19486,
+		"Rutland": 15325,
+		"Hartford": 10686,
+		"Montpelier": 7436
+	},
+	"Virginia": {
+		"Virginia Beach": 450189,
+		"Norfolk": 244076,
+		"Chesapeake": 242634,
+		"Richmond": 228783,
+		"Newport News": 178626
+	},
+	"Washington": {
+		"Seattle": 754567,
+		"Spokane": 219190,
+		"Tacoma": 216279,
+		"Vancouver": 183012,
+		"Bellevue": 147599
+	},
+	"West Virginia": {
+		"Charleston": 47215,
+		"Huntington": 46048,
+		"Morgantown": 30955,
+		"Parkersburg": 29675,
+		"Wheeling": 26771
+	},
+	"Wisconsin": {
+		"Milwaukee": 592025,
+		"Madison": 258054,
+		"Green Bay": 108827,
+		"Kenosha": 100164,
+		"Racine": 77432
+	},
+	"Wyoming": {
+		"Cheyenne": 63957,
+		"Casper": 57461,
+		"Laramie": 32473,
+		"Gillette": 31903,
+		"Rock Springs": 23082
+	}
+}

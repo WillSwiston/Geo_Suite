@@ -1,0 +1,40 @@
+/*
+  Global Map Styles
+
+  Note: rather than dealing with the specificity
+  battles that come along with their default css
+  !important was invoked several times.
+*/
+
+*,
+*>* {
+  --map-element-background: var(--main-color-dark);
+  --map-country-background: var(--main-color-light);
+  --map-small-country-background: var(--main-color-light);
+  --zoom-button-background: var(--main-color-dark);
+}
+
+.leaflet-container {
+  background: var(--map-element-background);
+  border: 2px solid var(--main-color-light);
+}
+
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out,
+.reset-element {
+  border-radius: 100% !important;
+  background: var(--zoom-button-background);
+  border-bottom: none !important;
+  border: 2px solid white !important;
+}
+
+.leaflet-bar {
+  border: none !important;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.testing {
+  background: black;
+}

@@ -1,0 +1,28 @@
+.popup-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.popup-wrapper img {
+  min-width: 200px;
+}
+
+/* Leaflet popup styles */
+
+*,
+*>* {
+  --popup-background: var(--main-color-dark);
+}
+
+.leaflet-popup-content-wrapper {
+  font-size: 1rem;
+  background: var(--popup-background);
+  border: 2px solid white;
+  color: var(--main-color-light);
+}
+
+.leaflet-popup-close-button {
+  color: var(--main-color-light);
+}

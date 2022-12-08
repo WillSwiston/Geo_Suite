@@ -1,0 +1,28 @@
+.us-cities-wrapper {
+  background: var(--main-color-dark);
+  width: 100vw;
+  height: 100vh;
+  color: var(--main-color-light);
+}
+
+.us-cities-title {
+  font-size: 2.3rem;
+  text-align: center;
+}
+
+.us-cities-name-wrapper {
+  font-size: 2rem;
+  text-align: center;
+  font-weight: 800;
+}
+
+.us-cities-point-wrapper {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.us-cities-map-wrapper {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}

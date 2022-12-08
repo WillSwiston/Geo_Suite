@@ -1,0 +1,1 @@
+export const SmallCountries = ["VAT", "MCO", "NRU", "TUV", "SMR", "LIE", "MHL", "KNA", "LCA", "VCT", "MDV", "MLT", "GRD", "BRB", "ATG", "SYC", "PLW", "AND", "FSM", "SGP", "TON", "DMA", "BHR", "KIR", "STP", "COM", "MUS", "CPV", "WSM", "TLS", "VUT"];

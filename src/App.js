@@ -18,6 +18,7 @@ import FlagQuiz from "./pages/flag_quiz/FlagQuiz";
 import PixelatedFlagQuiz from "./pages/pixelated_flag_quiz/PixelatedFlagQuiz";
 import LanguageQuiz from "./pages/language_quiz/LanguageQuiz";
 import USCityQuiz from "./pages/us_city_quiz/USCityQuiz.js";
+import BorderQuiz from "./pages/border_quiz/BorderQuiz.js";
 
 function App () {
   return (
@@ -32,6 +33,7 @@ function App () {
             <Route path="/game-select" element={<GameSelect />} />
             <Route path="/language-quiz/:dif" element={<LanguageQuiz />} />
             <Route path="/us-city-quiz/:dif" element={<USCityQuiz />} />
+            <Route path="/border-quiz" element={<BorderQuiz />} />
           </Routes>
         </BrowserRouter>
       </div>

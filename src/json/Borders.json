@@ -1,0 +1,1002 @@
+[
+	{
+		"name": "Afghanistan",
+		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"]
+	},
+	{
+		"name": "\u00c5land Islands",
+		"borders": []
+	},
+	{
+		"name": "Albania",
+		"borders": ["MNE", "GRC", "MKD", "KOS"]
+	},
+	{
+		"name": "Algeria",
+		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"]
+	},
+	{
+		"name": "American Samoa",
+		"borders": []
+	},
+	{
+		"name": "Andorra",
+		"borders": ["FRA", "ESP"]
+	},
+	{
+		"name": "Angola",
+		"borders": ["COG", "COD", "ZMB", "NAM"]
+	},
+	{
+		"name": "Anguilla",
+		"borders": []
+	},
+	{
+		"name": "Antarctica",
+		"borders": []
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"borders": []
+	},
+	{
+		"name": "Argentina",
+		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"]
+	},
+	{
+		"name": "Armenia",
+		"borders": ["AZE", "GEO", "IRN", "TUR"]
+	},
+	{
+		"name": "Aruba",
+		"borders": []
+	},
+	{
+		"name": "Australia",
+		"borders": []
+	},
+	{
+		"name": "Austria",
+		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"]
+	},
+	{
+		"name": "Azerbaijan",
+		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"]
+	},
+	{
+		"name": "Bahamas",
+		"borders": []
+	},
+	{
+		"name": "Bahrain",
+		"borders": []
+	},
+	{
+		"name": "Bangladesh",
+		"borders": ["MMR", "IND"]
+	},
+	{
+		"name": "Barbados",
+		"borders": []
+	},
+	{
+		"name": "Belarus",
+		"borders": ["LVA", "LTU", "POL", "RUS", "UKR"]
+	},
+	{
+		"name": "Belgium",
+		"borders": ["FRA", "DEU", "LUX", "NLD"]
+	},
+	{
+		"name": "Belize",
+		"borders": ["GTM", "MEX"]
+	},
+	{
+		"name": "Benin",
+		"borders": ["BFA", "NER", "NGA", "TGO"]
+	},
+	{
+		"name": "Bermuda",
+		"borders": []
+	},
+	{
+		"name": "Bhutan",
+		"borders": ["CHN", "IND"]
+	},
+	{
+		"name": "Bolivia",
+		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"]
+	},
+	{
+		"name": "Bonaire",
+		"borders": []
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"borders": ["HRV", "MNE", "SRB"]
+	},
+	{
+		"name": "Botswana",
+		"borders": ["NAM", "ZAF", "ZMB", "ZWE"]
+	},
+	{
+		"name": "Bouvet Island",
+		"borders": []
+	},
+	{
+		"name": "Brazil",
+		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"]
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"borders": []
+	},
+	{
+		"name": "British Virgin Islands",
+		"borders": []
+	},
+	{
+		"name": "Brunei",
+		"borders": ["MYS"]
+	},
+	{
+		"name": "Bulgaria",
+		"borders": ["GRC", "MKD", "ROU", "SRB", "TUR"]
+	},
+	{
+		"name": "Burkina Faso",
+		"borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"]
+	},
+	{
+		"name": "Burundi",
+		"borders": ["COD", "RWA", "TZA"]
+	},
+	{
+		"name": "Cambodia",
+		"borders": ["LAO", "THA", "VNM"]
+	},
+	{
+		"name": "Cameroon",
+		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"]
+	},
+	{
+		"name": "Canada",
+		"borders": ["USA"]
+	},
+	{
+		"name": "Cape Verde",
+		"borders": []
+	},
+	{
+		"name": "Cayman Islands",
+		"borders": []
+	},
+	{
+		"name": "Central African Republic",
+		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"]
+	},
+	{
+		"name": "Chad",
+		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"]
+	},
+	{
+		"name": "Chile",
+		"borders": ["ARG", "BOL", "PER"]
+	},
+	{
+		"name": "China",
+		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"]
+	},
+	{
+		"name": "Christmas Island",
+		"borders": []
+	},
+	{
+		"name": "Cocos (Keeling) Islands",
+		"borders": []
+	},
+	{
+		"name": "Colombia",
+		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"]
+	},
+	{
+		"name": "Comoros",
+		"borders": []
+	},
+	{
+		"name": "Republic of the Congo",
+		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"]
+	},
+	{
+		"name": "Democratic Republic of the Congo",
+		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"]
+	},
+	{
+		"name": "Cook Islands",
+		"borders": []
+	},
+	{
+		"name": "Costa Rica",
+		"borders": ["NIC", "PAN"]
+	},
+	{
+		"name": "Croatia",
+		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"]
+	},
+	{
+		"name": "Cuba",
+		"borders": []
+	},
+	{
+		"name": "Cura\u00e7ao",
+		"borders": []
+	},
+	{
+		"name": "Cyprus",
+		"borders": ["GBR"]
+	},
+	{
+		"name": "Czech Republic",
+		"borders": ["AUT", "DEU", "POL", "SVK"]
+	},
+	{
+		"name": "Denmark",
+		"borders": ["DEU"]
+	},
+	{
+		"name": "Djibouti",
+		"borders": ["ERI", "ETH", "SOM"]
+	},
+	{
+		"name": "Dominica",
+		"borders": []
+	},
+	{
+		"name": "Dominican Republic",
+		"borders": ["HTI"]
+	},
+	{
+		"name": "Ecuador",
+		"borders": ["COL", "PER"]
+	},
+	{
+		"name": "Egypt",
+		"borders": ["ISR", "LBY", "SDN"]
+	},
+	{
+		"name": "El Salvador",
+		"borders": ["GTM", "HND"]
+	},
+	{
+		"name": "Equatorial Guinea",
+		"borders": ["CMR", "GAB"]
+	},
+	{
+		"name": "Eritrea",
+		"borders": ["DJI", "ETH", "SDN"]
+	},
+	{
+		"name": "Estonia",
+		"borders": ["LVA", "RUS"]
+	},
+	{
+		"name": "Ethiopia",
+		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"]
+	},
+	{
+		"name": "Falkland Islands",
+		"borders": []
+	},
+	{
+		"name": "Faroe Islands",
+		"borders": []
+	},
+	{
+		"name": "Fiji",
+		"borders": []
+	},
+	{
+		"name": "Finland",
+		"borders": ["NOR", "SWE", "RUS"]
+	},
+	{
+		"name": "France",
+		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"]
+	},
+	{
+		"name": "French Guiana",
+		"borders": ["BRA", "SUR"]
+	},
+	{
+		"name": "French Polynesia",
+		"borders": []
+	},
+	{
+		"name": "French Southern and Antarctic Lands",
+		"borders": []
+	},
+	{
+		"name": "Gabon",
+		"borders": ["CMR", "COG", "GNQ"]
+	},
+	{
+		"name": "Gambia",
+		"borders": ["SEN"]
+	},
+	{
+		"name": "Georgia",
+		"borders": ["ARM", "AZE", "RUS", "TUR"]
+	},
+	{
+		"name": "Germany",
+		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"]
+	},
+	{
+		"name": "Ghana",
+		"borders": ["BFA", "CIV", "TGO"]
+	},
+	{
+		"name": "Gibraltar",
+		"borders": ["ESP"]
+	},
+	{
+		"name": "Greece",
+		"borders": ["ALB", "BGR", "TUR", "MKD"]
+	},
+	{
+		"name": "Greenland",
+		"borders": []
+	},
+	{
+		"name": "Grenada",
+		"borders": []
+	},
+	{
+		"name": "Guadeloupe",
+		"borders": []
+	},
+	{
+		"name": "Guam",
+		"borders": []
+	},
+	{
+		"name": "Guatemala",
+		"borders": ["BLZ", "SLV", "HND", "MEX"]
+	},
+	{
+		"name": "Guernsey",
+		"borders": []
+	},
+	{
+		"name": "Guinea",
+		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"]
+	},
+	{
+		"name": "Guinea-Bissau",
+		"borders": ["GIN", "SEN"]
+	},
+	{
+		"name": "Guyana",
+		"borders": ["BRA", "SUR", "VEN"]
+	},
+	{
+		"name": "Haiti",
+		"borders": ["DOM"]
+	},
+	{
+		"name": "Heard Island and McDonald Islands",
+		"borders": []
+	},
+	{
+		"name": "Vatican City",
+		"borders": ["ITA"]
+	},
+	{
+		"name": "Honduras",
+		"borders": ["GTM", "SLV", "NIC"]
+	},
+	{
+		"name": "Hong Kong",
+		"borders": ["CHN"]
+	},
+	{
+		"name": "Hungary",
+		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"]
+	},
+	{
+		"name": "Iceland",
+		"borders": []
+	},
+	{
+		"name": "India",
+		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"]
+	},
+	{
+		"name": "Indonesia",
+		"borders": ["TLS", "MYS", "PNG"]
+	},
+	{
+		"name": "Ivory Coast",
+		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
+	},
+	{
+		"name": "Iran",
+		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
+	},
+	{
+		"name": "Iraq",
+		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
+	},
+	{
+		"name": "Ireland",
+		"borders": ["GBR"]
+	},
+	{
+		"name": "Isle of Man",
+		"borders": []
+	},
+	{
+		"name": "Israel",
+		"borders": ["EGY", "JOR", "LBN", "SYR"]
+	},
+	{
+		"name": "Italy",
+		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"]
+	},
+	{
+		"name": "Jamaica",
+		"borders": []
+	},
+	{
+		"name": "Japan",
+		"borders": []
+	},
+	{
+		"name": "Jersey",
+		"borders": []
+	},
+	{
+		"name": "Jordan",
+		"borders": ["IRQ", "ISR", "SAU", "SYR"]
+	},
+	{
+		"name": "Kazakhstan",
+		"borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"]
+	},
+	{
+		"name": "Kenya",
+		"borders": ["ETH", "SOM", "SSD", "TZA", "UGA"]
+	},
+	{
+		"name": "Kiribati",
+		"borders": []
+	},
+	{
+		"name": "Kuwait",
+		"borders": ["IRN", "SAU"]
+	},
+	{
+		"name": "Kyrgyzstan",
+		"borders": ["CHN", "KAZ", "TJK", "UZB"]
+	},
+	{
+		"name": "Laos",
+		"borders": ["MMR", "KHM", "CHN", "THA", "VNM"]
+	},
+	{
+		"name": "Latvia",
+		"borders": ["BLR", "EST", "LTU", "RUS"]
+	},
+	{
+		"name": "Lebanon",
+		"borders": ["ISR", "SYR"]
+	},
+	{
+		"name": "Lesotho",
+		"borders": ["ZAF"]
+	},
+	{
+		"name": "Liberia",
+		"borders": ["GIN", "CIV", "SLE"]
+	},
+	{
+		"name": "Libya",
+		"borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"]
+	},
+	{
+		"name": "Liechtenstein",
+		"borders": ["AUT", "CHE"]
+	},
+	{
+		"name": "Lithuania",
+		"borders": ["BLR", "LVA", "POL", "RUS"]
+	},
+	{
+		"name": "Luxembourg",
+		"borders": ["BEL", "FRA", "DEU"]
+	},
+	{
+		"name": "Macau",
+		"borders": ["CHN"]
+	},
+	{
+		"name": "Macedonia",
+		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"]
+	},
+	{
+		"name": "Madagascar",
+		"borders": []
+	},
+	{
+		"name": "Malawi",
+		"borders": ["MOZ", "TZA", "ZMB"]
+	},
+	{
+		"name": "Malaysia",
+		"borders": ["BRN", "IDN", "THA"]
+	},
+	{
+		"name": "Maldives",
+		"borders": []
+	},
+	{
+		"name": "Mali",
+		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"]
+	},
+	{
+		"name": "Malta",
+		"borders": []
+	},
+	{
+		"name": "Marshall Islands",
+		"borders": []
+	},
+	{
+		"name": "Martinique",
+		"borders": []
+	},
+	{
+		"name": "Mauritania",
+		"borders": ["DZA", "MLI", "SEN", "ESH"]
+	},
+	{
+		"name": "Mauritius",
+		"borders": []
+	},
+	{
+		"name": "Mayotte",
+		"borders": []
+	},
+	{
+		"name": "Mexico",
+		"borders": ["BLZ", "GTM", "USA"]
+	},
+	{
+		"name": "Micronesia",
+		"borders": []
+	},
+	{
+		"name": "Moldova",
+		"borders": ["ROU", "UKR"]
+	},
+	{
+		"name": "Monaco",
+		"borders": ["FRA"]
+	},
+	{
+		"name": "Mongolia",
+		"borders": ["CHN", "RUS"]
+	},
+	{
+		"name": "Montenegro",
+		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"]
+	},
+	{
+		"name": "Montserrat",
+		"borders": []
+	},
+	{
+		"name": "Morocco",
+		"borders": ["DZA", "ESH", "ESP"]
+	},
+	{
+		"name": "Mozambique",
+		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"]
+	},
+	{
+		"name": "Myanmar",
+		"borders": ["BGD", "CHN", "IND", "LAO", "THA"]
+	},
+	{
+		"name": "Namibia",
+		"borders": ["AGO", "BWA", "ZAF", "ZMB"]
+	},
+	{
+		"name": "Nauru",
+		"borders": []
+	},
+	{
+		"name": "Nepal",
+		"borders": ["CHN", "IND"]
+	},
+	{
+		"name": "Netherlands",
+		"borders": ["BEL", "DEU"]
+	},
+	{
+		"name": "New Caledonia",
+		"borders": []
+	},
+	{
+		"name": "New Zealand",
+		"borders": []
+	},
+	{
+		"name": "Nicaragua",
+		"borders": ["CRI", "HND"]
+	},
+	{
+		"name": "Niger",
+		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"]
+	},
+	{
+		"name": "Nigeria",
+		"borders": ["BEN", "CMR", "TCD", "NER"]
+	},
+	{
+		"name": "Niue",
+		"borders": []
+	},
+	{
+		"name": "Norfolk Island",
+		"borders": []
+	},
+	{
+		"name": "North Korea",
+		"borders": ["CHN", "KOR", "RUS"]
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"borders": []
+	},
+	{
+		"name": "Norway",
+		"borders": ["FIN", "SWE", "RUS"]
+	},
+	{
+		"name": "Oman",
+		"borders": ["SAU", "ARE", "YEM"]
+	},
+	{
+		"name": "Pakistan",
+		"borders": ["AFG", "CHN", "IND", "IRN"]
+	},
+	{
+		"name": "Palau",
+		"borders": []
+	},
+	{
+		"name": "Palestine",
+		"borders": ["ISR", "EGY", "JOR"]
+	},
+	{
+		"name": "Panama",
+		"borders": ["COL", "CRI"]
+	},
+	{
+		"name": "Papua New Guinea",
+		"borders": ["IDN"]
+	},
+	{
+		"name": "Paraguay",
+		"borders": ["ARG", "BOL", "BRA"]
+	},
+	{
+		"name": "Peru",
+		"borders": ["BOL", "BRA", "CHL", "COL", "ECU"]
+	},
+	{
+		"name": "Philippines",
+		"borders": []
+	},
+	{
+		"name": "Pitcairn Islands",
+		"borders": []
+	},
+	{
+		"name": "Poland",
+		"borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"]
+	},
+	{
+		"name": "Portugal",
+		"borders": ["ESP"]
+	},
+	{
+		"name": "Puerto Rico",
+		"borders": []
+	},
+	{
+		"name": "Qatar",
+		"borders": ["SAU"]
+	},
+	{
+		"name": "Republic of Kosovo",
+		"borders": ["ALB", "MKD", "MNE", "SRB"]
+	},
+	{
+		"name": "R\u00e9union",
+		"borders": []
+	},
+	{
+		"name": "Romania",
+		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"]
+	},
+	{
+		"name": "Russia",
+		"borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"]
+	},
+	{
+		"name": "Rwanda",
+		"borders": ["BDI", "COD", "TZA", "UGA"]
+	},
+	{
+		"name": "Saint Barth\u00e9lemy",
+		"borders": []
+	},
+	{
+		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"borders": []
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"borders": []
+	},
+	{
+		"name": "Saint Lucia",
+		"borders": []
+	},
+	{
+		"name": "Saint Martin",
+		"borders": ["SXM"]
+	},
+	{
+		"name": "Saint Pierre and Miquelon",
+		"borders": []
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"borders": []
+	},
+	{
+		"name": "Samoa",
+		"borders": []
+	},
+	{
+		"name": "San Marino",
+		"borders": ["ITA"]
+	},
+	{
+		"name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+		"borders": []
+	},
+	{
+		"name": "Saudi Arabia",
+		"borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"]
+	},
+	{
+		"name": "Senegal",
+		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"]
+	},
+	{
+		"name": "Serbia",
+		"borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"]
+	},
+	{
+		"name": "Seychelles",
+		"borders": []
+	},
+	{
+		"name": "Sierra Leone",
+		"borders": ["GIN", "LBR"]
+	},
+	{
+		"name": "Singapore",
+		"borders": []
+	},
+	{
+		"name": "Sint Maarten",
+		"borders": ["MAF"]
+	},
+	{
+		"name": "Slovakia",
+		"borders": ["AUT", "CZE", "HUN", "POL", "UKR"]
+	},
+	{
+		"name": "Slovenia",
+		"borders": ["AUT", "HRV", "ITA", "HUN"]
+	},
+	{
+		"name": "Solomon Islands",
+		"borders": []
+	},
+	{
+		"name": "Somalia",
+		"borders": ["DJI", "ETH", "KEN"]
+	},
+	{
+		"name": "South Africa",
+		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"]
+	},
+	{
+		"name": "South Georgia",
+		"borders": []
+	},
+	{
+		"name": "South Korea",
+		"borders": ["PRK"]
+	},
+	{
+		"name": "South Sudan",
+		"borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"]
+	},
+	{
+		"name": "Spain",
+		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"]
+	},
+	{
+		"name": "Sri Lanka",
+		"borders": ["IND"]
+	},
+	{
+		"name": "Sudan",
+		"borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"]
+	},
+	{
+		"name": "Suriname",
+		"borders": ["BRA", "GUF", "GUY"]
+	},
+	{
+		"name": "Svalbard and Jan Mayen",
+		"borders": []
+	},
+	{
+		"name": "Swaziland",
+		"borders": ["MOZ", "ZAF"]
+	},
+	{
+		"name": "Sweden",
+		"borders": ["FIN", "NOR"]
+	},
+	{
+		"name": "Switzerland",
+		"borders": ["AUT", "FRA", "ITA", "LIE", "DEU"]
+	},
+	{
+		"name": "Syria",
+		"borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"]
+	},
+	{
+		"name": "Taiwan",
+		"borders": []
+	},
+	{
+		"name": "Tajikistan",
+		"borders": ["AFG", "CHN", "KGZ", "UZB"]
+	},
+	{
+		"name": "Tanzania",
+		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"]
+	},
+	{
+		"name": "Thailand",
+		"borders": ["MMR", "KHM", "LAO", "MYS"]
+	},
+	{
+		"name": "Timor-Leste",
+		"borders": ["IDN"]
+	},
+	{
+		"name": "Togo",
+		"borders": ["BEN", "BFA", "GHA"]
+	},
+	{
+		"name": "Tokelau",
+		"borders": []
+	},
+	{
+		"name": "Tonga",
+		"borders": []
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"borders": []
+	},
+	{
+		"name": "Tunisia",
+		"borders": ["DZA", "LBY"]
+	},
+	{
+		"name": "Turkey",
+		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
+	},
+	{
+		"name": "Turkmenistan",
+		"borders": ["AFG", "IRN", "KAZ", "UZB"]
+	},
+	{
+		"name": "Turks and Caicos Islands",
+		"borders": []
+	},
+	{
+		"name": "Tuvalu",
+		"borders": []
+	},
+	{
+		"name": "Uganda",
+		"borders": ["COD", "KEN", "RWA", "SSD", "TZA"]
+	},
+	{
+		"name": "Ukraine",
+		"borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"]
+	},
+	{
+		"name": "United Arab Emirates",
+		"borders": ["OMN", "SAU"]
+	},
+	{
+		"name": "United Kingdom",
+		"borders": ["IRL"]
+	},
+	{
+		"name": "United States",
+		"borders": ["CAN", "MEX"]
+	},
+	{
+		"name": "United States Minor Outlying Islands",
+		"borders": []
+	},
+	{
+		"name": "United States Virgin Islands",
+		"borders": []
+	},
+	{
+		"name": "Uruguay",
+		"borders": ["ARG", "BRA"]
+	},
+	{
+		"name": "Uzbekistan",
+		"borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"]
+	},
+	{
+		"name": "Vanuatu",
+		"borders": []
+	},
+	{
+		"name": "Venezuela",
+		"borders": ["BRA", "COL", "GUY"]
+	},
+	{
+		"name": "Vietnam",
+		"borders": ["KHM", "CHN", "LAO"]
+	},
+	{
+		"name": "Wallis and Futuna",
+		"borders": []
+	},
+	{
+		"name": "Western Sahara",
+		"borders": ["DZA", "MRT", "MAR"]
+	},
+	{
+		"name": "Yemen",
+		"borders": ["OMN", "SAU"]
+	},
+	{
+		"name": "Zambia",
+		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"]
+	},
+	{
+		"name": "Zimbabwe",
+		"borders": ["BWA", "MOZ", "ZAF", "ZMB"]
+	}
+]
